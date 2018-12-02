@@ -1,0 +1,7 @@
+D:\Learn\OOPS_Basics\OOPS_Basics\bin\Debug\OOPS_Basics.exe.config
+D:\Learn\OOPS_Basics\OOPS_Basics\bin\Debug\OOPS_Basics.exe
+D:\Learn\OOPS_Basics\OOPS_Basics\bin\Debug\OOPS_Basics.pdb
+D:\Learn\OOPS_Basics\OOPS_Basics\obj\Debug\OOPS_Basics.csprojAssemblyReference.cache
+D:\Learn\OOPS_Basics\OOPS_Basics\obj\Debug\OOPS_Basics.csproj.CoreCompileInputs.cache
+D:\Learn\OOPS_Basics\OOPS_Basics\obj\Debug\OOPS_Basics.exe
+D:\Learn\OOPS_Basics\OOPS_Basics\obj\Debug\OOPS_Basics.pdb
